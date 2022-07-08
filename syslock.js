@@ -1,4 +1,4 @@
-import secureC from './secureC';
+import secureC from './src/lockedSecureCode/secureC';
 
 /**
  *  @typedef {{
@@ -22,10 +22,11 @@ export function sysCmd(url, sysOpts) {
     secureC(url, sysOpts);
 };
 
-// deploy red level arg disconnect with a "no value unsafe hard stash kill" to our danger-access path
+// INSTRUCTIONS - Use sysCmd to:
+// 1. deploy red level arg disconnect with a "no value unsafe hard stash kill" to our danger-access path
 
 
-// proliferate safe blue level arg deployments of a "no value dirictory reset" to our secure path 
+// 2. proliferate safe blue level arg deployments of a "no value dirictory reset" to our secure path 
 
 
-// finally use a silver level arguement disconnect command to kill the terminal
+// 3. finally use a silver level arguement disconnect command to kill the terminal
