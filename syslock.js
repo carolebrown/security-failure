@@ -29,4 +29,4 @@ export function sysCmd(url, sysOpts) {
 // 2. proliferate safe blue level arg deployments of a "no value dirictory reset" to our secure path 
 
 
-// 3. finally use a silver level arguement disconnect command to kill the terminal
+// 3. finally use a silver level arguement disconnect command to kill the terminal on the root path
